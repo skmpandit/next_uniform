@@ -1,0 +1,602 @@
+[
+  {
+    "id": "corporate-formal-blazer-charcoal-men",
+    "slug": "corporate-formal-blazer-charcoal-men"
+  },
+  {
+    "id": "corporate-formal-blazer-green-men",
+    "slug": "corporate-formal-blazer-green-men"
+  },
+  {
+    "id": "corporate-formal-blazer-grey-double-men",
+    "slug": "corporate-formal-blazer-grey-double-men"
+  },
+  {
+    "id": "corporate-formal-blazer-lightblue-men",
+    "slug": "corporate-formal-blazer-lightblue-men"
+  },
+  {
+    "id": "corporate-formal-blazer-lightgrey-men",
+    "slug": "corporate-formal-blazer-lightgrey-men"
+  },
+  {
+    "id": "corporate-formal-blazer-navy-men",
+    "slug": "corporate-formal-blazer-navy-men"
+  },
+  {
+    "id": "corporate-formal-pant-beige",
+    "slug": "corporate-formal-pant-beige"
+  },
+  {
+    "id": "corporate-formal-pant-chocolate-brown",
+    "slug": "corporate-formal-pant-chocolate-brown"
+  },
+  {
+    "id": "corporate-formal-pant-cream-beige",
+    "slug": "corporate-formal-pant-cream-beige"
+  },
+  {
+    "id": "corporate-formal-pant-light-beige",
+    "slug": "corporate-formal-pant-light-beige"
+  },
+  {
+    "id": "corporate-formal-pant-maroon",
+    "slug": "corporate-formal-pant-maroon"
+  },
+  {
+    "id": "corporate-formal-pant-navy",
+    "slug": "corporate-formal-pant-navy"
+  },
+  {
+    "id": "corporate-formal-pant-royal-blue",
+    "slug": "corporate-formal-pant-royal-blue"
+  },
+  {
+    "id": "corporate-formal-pant-steel-grey",
+    "slug": "corporate-formal-pant-steel-grey"
+  },
+  {
+    "id": "corporate-formal-shirt-darkgrey-men",
+    "slug": "corporate-formal-shirt-darkgrey-men"
+  },
+  {
+    "id": "corporate-formal-shirt-lavender-men",
+    "slug": "corporate-formal-shirt-lavender-men"
+  },
+  {
+    "id": "corporate-formal-shirt-tealblue-men",
+    "slug": "corporate-formal-shirt-tealblue-men"
+  },
+  {
+    "id": "corporate-formal-skirt-beige-women",
+    "slug": "corporate-formal-skirt-beige-women"
+  },
+  {
+    "id": "corporate-formal-skirt-black-women",
+    "slug": "corporate-formal-skirt-black-women"
+  },
+  {
+    "id": "corporate-formal-skirt-navy-women",
+    "slug": "corporate-formal-skirt-navy-women"
+  },
+  {
+    "id": "corporate-formal-skirt-women",
+    "slug": "corporate-formal-skirt-women"
+  },
+  {
+    "id": "corporate-formal-suit-beige-men",
+    "slug": "corporate-formal-suit-beige-men"
+  },
+  {
+    "id": "corporate-formal-suit-black-men",
+    "slug": "corporate-formal-suit-black-men"
+  },
+  {
+    "id": "corporate-formal-suit-lightgrey-men",
+    "slug": "corporate-formal-suit-lightgrey-men"
+  },
+  {
+    "id": "corporate-formal-suit-navyblue-men",
+    "slug": "corporate-formal-suit-navyblue-men"
+  },
+  {
+    "id": "corporate-formal-suit-peach-men",
+    "slug": "corporate-formal-suit-peach-men"
+  },
+  {
+    "id": "corporate-formal-waistcoat-black-men",
+    "slug": "corporate-formal-waistcoat-black-men"
+  },
+  {
+    "id": "corporate-formal-waistcoat-green-men",
+    "slug": "corporate-formal-waistcoat-green-men"
+  },
+  {
+    "id": "corporate-formal-waistcoat-grey-men",
+    "slug": "corporate-formal-waistcoat-grey-men"
+  },
+  {
+    "id": "corporate-formal-waistcoat-navy-men",
+    "slug": "corporate-formal-waistcoat-navy-men"
+  },
+  {
+    "id": "corporate-mandarin-shirt-brown-men",
+    "slug": "corporate-mandarin-shirt-brown-men"
+  },
+  {
+    "id": "corporate-polo-tshirt-black-men",
+    "slug": "corporate-polo-tshirt-black-men"
+  },
+  {
+    "id": "corporate-polo-tshirt-kapoor-corp",
+    "slug": "corporate-polo-tshirt-kapoor-corp"
+  },
+  {
+    "id": "corporate-polo-tshirt-miningindia-white",
+    "slug": "corporate-polo-tshirt-miningindia-white"
+  },
+  {
+    "id": "corporate-polo-tshirt-nhgee-cas-white",
+    "slug": "corporate-polo-tshirt-nhgee-cas-white"
+  },
+  {
+    "id": "corporate-polo-tshirt-orica-blue",
+    "slug": "corporate-polo-tshirt-orica-blue"
+  },
+  {
+    "id": "corporate-polo-tshirt-orica-green",
+    "slug": "corporate-polo-tshirt-orica-green"
+  },
+  {
+    "id": "corporate-polo-tshirt-orica-navy",
+    "slug": "corporate-polo-tshirt-orica-navy"
+  },
+  {
+    "id": "corporate-polo-tshirt-pocketlogo-green",
+    "slug": "corporate-polo-tshirt-pocketlogo-green"
+  },
+  {
+    "id": "corporate-polo-tshirt-pocketlogo-navy",
+    "slug": "corporate-polo-tshirt-pocketlogo-navy"
+  },
+  {
+    "id": "corporate-shirt-navy-blue",
+    "slug": "corporate-shirt-navy-blue"
+  },
+  {
+    "id": "corporate-shirt-olive-green",
+    "slug": "corporate-shirt-olive-green"
+  },
+  {
+    "id": "corporate-shirt-pink",
+    "slug": "corporate-shirt-pink"
+  },
+  {
+    "id": "hospital-doctor-coat-uniform",
+    "slug": "hospital-doctor-coat-uniform"
+  },
+  {
+    "id": "hospital-doctor-uniform-black",
+    "slug": "hospital-doctor-uniform-black"
+  },
+  {
+    "id": "hospital-doctor-uniform-black-logo",
+    "slug": "hospital-doctor-uniform-black-logo"
+  },
+  {
+    "id": "hospital-doctor-uniform-maroon-contrast-logo",
+    "slug": "hospital-doctor-uniform-maroon-contrast-logo"
+  },
+  {
+    "id": "hospital-doctor-uniform-navy-blue",
+    "slug": "hospital-doctor-uniform-navy-blue"
+  },
+  {
+    "id": "hospital-housekeeping-uniform-beige",
+    "slug": "hospital-housekeeping-uniform-beige"
+  },
+  {
+    "id": "hospital-housekeeping-uniform-grey-black",
+    "slug": "hospital-housekeeping-uniform-grey-black"
+  },
+  {
+    "id": "hospital-housekeeping-uniform-grey-navy",
+    "slug": "hospital-housekeeping-uniform-grey-navy"
+  },
+  {
+    "id": "hospital-housekeeping-uniform-mustard-charcoal",
+    "slug": "hospital-housekeeping-uniform-mustard-charcoal"
+  },
+  {
+    "id": "hospital-housekeeping-uniform-navy-sky",
+    "slug": "hospital-housekeeping-uniform-navy-sky"
+  },
+  {
+    "id": "hospital-lab-coat-green-full",
+    "slug": "hospital-lab-coat-green-full"
+  },
+  {
+    "id": "hospital-lab-coat-grey",
+    "slug": "hospital-lab-coat-grey"
+  },
+  {
+    "id": "hospital-lab-coat-navy",
+    "slug": "hospital-lab-coat-navy"
+  },
+  {
+    "id": "hospital-lab-coat-sky-blue",
+    "slug": "hospital-lab-coat-sky-blue"
+  },
+  {
+    "id": "hospital-lab-coat-white",
+    "slug": "hospital-lab-coat-white"
+  },
+  {
+    "id": "hospital-lab-coat-white-full",
+    "slug": "hospital-lab-coat-white-full"
+  },
+  {
+    "id": "hospital-nurse-uniform-green",
+    "slug": "hospital-nurse-uniform-green"
+  },
+  {
+    "id": "hospital-nurse-uniform-lavender",
+    "slug": "hospital-nurse-uniform-lavender"
+  },
+  {
+    "id": "hospital-nurse-uniform-navy",
+    "slug": "hospital-nurse-uniform-navy"
+  },
+  {
+    "id": "hospital-nurse-uniform-purple",
+    "slug": "hospital-nurse-uniform-purple"
+  },
+  {
+    "id": "hospital-nurse-uniform-teal",
+    "slug": "hospital-nurse-uniform-teal"
+  },
+  {
+    "id": "hospital-nurse-uniform-white-blue",
+    "slug": "hospital-nurse-uniform-white-blue"
+  },
+  {
+    "id": "hospital-nurse-uniform-white-coat",
+    "slug": "hospital-nurse-uniform-white-coat"
+  },
+  {
+    "id": "hospital-scrub-black",
+    "slug": "hospital-scrub-black"
+  },
+  {
+    "id": "hospital-scrub-grey",
+    "slug": "hospital-scrub-grey"
+  },
+  {
+    "id": "hospital-scrub-maroon",
+    "slug": "hospital-scrub-maroon"
+  },
+  {
+    "id": "hospital-scrub-navy-blue",
+    "slug": "hospital-scrub-navy-blue"
+  },
+  {
+    "id": "hospital-scrub-purple",
+    "slug": "hospital-scrub-purple"
+  },
+  {
+    "id": "hospital-scrub-sky-blue",
+    "slug": "hospital-scrub-sky-blue"
+  },
+  {
+    "id": "hotel-chef-coat-golden",
+    "slug": "hotel-chef-coat-golden"
+  },
+  {
+    "id": "hotel-chef-coat-maroon",
+    "slug": "hotel-chef-coat-maroon"
+  },
+  {
+    "id": "hotel-chef-coat-royal-blue",
+    "slug": "hotel-chef-coat-royal-blue"
+  },
+  {
+    "id": "hotel-front-office-uniform-men-beige-waistcoat-set",
+    "slug": "hotel-front-office-uniform-men-beige-waistcoat-set"
+  },
+  {
+    "id": "hotel-front-office-uniform-men-black-suit",
+    "slug": "hotel-front-office-uniform-men-black-suit"
+  },
+  {
+    "id": "hotel-front-office-uniform-men-navy-formal-set",
+    "slug": "hotel-front-office-uniform-men-navy-formal-set"
+  },
+  {
+    "id": "hotel-front-office-uniform-women-lightblue-shirt",
+    "slug": "hotel-front-office-uniform-women-lightblue-shirt"
+  },
+  {
+    "id": "hotel-front-office-uniform-women-navy-blazer-skirt",
+    "slug": "hotel-front-office-uniform-women-navy-blazer-skirt"
+  },
+  {
+    "id": "hotel-front-office-uniform-women-royal-blue-shirt-black-pants",
+    "slug": "hotel-front-office-uniform-women-royal-blue-shirt-black-pants"
+  },
+  {
+    "id": "hotel-front-office-uniform-women-white-shirt-navy-pants",
+    "slug": "hotel-front-office-uniform-women-white-shirt-navy-pants"
+  },
+  {
+    "id": "hotel-front-office-uniform-women-white-shirt-navy-skirt",
+    "slug": "hotel-front-office-uniform-women-white-shirt-navy-skirt"
+  },
+  {
+    "id": "hotel-hospitality-uniform-female-beige-skirt",
+    "slug": "hotel-hospitality-uniform-female-beige-skirt"
+  },
+  {
+    "id": "hotel-hospitality-uniform-female-black-blazer-skirt",
+    "slug": "hotel-hospitality-uniform-female-black-blazer-skirt"
+  },
+  {
+    "id": "hotel-hospitality-uniform-male-beige-apron",
+    "slug": "hotel-hospitality-uniform-male-beige-apron"
+  },
+  {
+    "id": "hotel-hospitality-uniform-male-black-waistcoat",
+    "slug": "hotel-hospitality-uniform-male-black-waistcoat"
+  },
+  {
+    "id": "hotel-hospitality-uniform-male-black-waistcoat-bowtie",
+    "slug": "hotel-hospitality-uniform-male-black-waistcoat-bowtie"
+  },
+  {
+    "id": "hotel-hospitality-uniform-male-grey-waistcoat",
+    "slug": "hotel-hospitality-uniform-male-grey-waistcoat"
+  },
+  {
+    "id": "hotel-hospitality-uniform-male-olive-green-waistcoat",
+    "slug": "hotel-hospitality-uniform-male-olive-green-waistcoat"
+  },
+  {
+    "id": "hotel-hospitality-uniform-male-white-brown",
+    "slug": "hotel-hospitality-uniform-male-white-brown"
+  },
+  {
+    "id": "hotel-housekeeping-uniform-men-brown-gold",
+    "slug": "hotel-housekeeping-uniform-men-brown-gold"
+  },
+  {
+    "id": "hotel-housekeeping-uniform-men-brown-vneck",
+    "slug": "hotel-housekeeping-uniform-men-brown-vneck"
+  },
+  {
+    "id": "hotel-housekeeping-uniform-men-mint-green-black",
+    "slug": "hotel-housekeeping-uniform-men-mint-green-black"
+  },
+  {
+    "id": "hotel-housekeeping-uniform-women-beige-brown",
+    "slug": "hotel-housekeeping-uniform-women-beige-brown"
+  },
+  {
+    "id": "hotel-housekeeping-uniform-women-beige-navy",
+    "slug": "hotel-housekeeping-uniform-women-beige-navy"
+  },
+  {
+    "id": "hotel-housekeeping-uniform-women-grey-teal",
+    "slug": "hotel-housekeeping-uniform-women-grey-teal"
+  },
+  {
+    "id": "hotel-waiter-uniform-brown-set",
+    "slug": "hotel-waiter-uniform-brown-set"
+  },
+  {
+    "id": "hotel-waiter-uniform-female-black",
+    "slug": "hotel-waiter-uniform-female-black"
+  },
+  {
+    "id": "hotel-waiter-uniform-female-black-suit",
+    "slug": "hotel-waiter-uniform-female-black-suit"
+  },
+  {
+    "id": "hotel-waiter-uniform-female-brown-apron",
+    "slug": "hotel-waiter-uniform-female-brown-apron"
+  },
+  {
+    "id": "hotel-waiter-uniform-female-grey-waistcoat",
+    "slug": "hotel-waiter-uniform-female-grey-waistcoat"
+  },
+  {
+    "id": "hotel-waiter-uniform-female-navy",
+    "slug": "hotel-waiter-uniform-female-navy"
+  },
+  {
+    "id": "hotel-waiter-uniform-formal-set",
+    "slug": "hotel-waiter-uniform-formal-set"
+  },
+  {
+    "id": "hotel-waiter-uniform-male-beige",
+    "slug": "hotel-waiter-uniform-male-beige"
+  },
+  {
+    "id": "indian-red-cross-society-polo-tshirt-white-red",
+    "slug": "indian-red-cross-society-polo-tshirt-white-red"
+  },
+  {
+    "id": "industrial-boiler-suit-black",
+    "slug": "industrial-boiler-suit-black"
+  },
+  {
+    "id": "industrial-boiler-suit-black-orange",
+    "slug": "industrial-boiler-suit-black-orange"
+  },
+  {
+    "id": "industrial-boiler-suit-green",
+    "slug": "industrial-boiler-suit-green"
+  },
+  {
+    "id": "industrial-boiler-suit-grey",
+    "slug": "industrial-boiler-suit-grey"
+  },
+  {
+    "id": "industrial-boiler-suit-khaki",
+    "slug": "industrial-boiler-suit-khaki"
+  },
+  {
+    "id": "industrial-boiler-suit-light-grey",
+    "slug": "industrial-boiler-suit-light-grey"
+  },
+  {
+    "id": "industrial-boiler-suit-navy-blue",
+    "slug": "industrial-boiler-suit-navy-blue"
+  },
+  {
+    "id": "industrial-boiler-suit-navy-red",
+    "slug": "industrial-boiler-suit-navy-red"
+  },
+  {
+    "id": "industrial-boiler-suit-orange",
+    "slug": "industrial-boiler-suit-orange"
+  },
+  {
+    "id": "industrial-boiler-suit-red",
+    "slug": "industrial-boiler-suit-red"
+  },
+  {
+    "id": "industrial-boiler-suit-reflective-red",
+    "slug": "industrial-boiler-suit-reflective-red"
+  },
+  {
+    "id": "industrial-boiler-suit-steel-blue",
+    "slug": "industrial-boiler-suit-steel-blue"
+  },
+  {
+    "id": "industrial-boiler-suit-yellow",
+    "slug": "industrial-boiler-suit-yellow"
+  },
+  {
+    "id": "industrial-safety-jacket-dualtone",
+    "slug": "industrial-safety-jacket-dualtone"
+  },
+  {
+    "id": "industrial-safety-jacket-fluorescent",
+    "slug": "industrial-safety-jacket-fluorescent"
+  },
+  {
+    "id": "industrial-safety-jacket-grey",
+    "slug": "industrial-safety-jacket-grey"
+  },
+  {
+    "id": "industrial-safety-jacket-lime",
+    "slug": "industrial-safety-jacket-lime"
+  },
+  {
+    "id": "industrial-safety-jacket-modern",
+    "slug": "industrial-safety-jacket-modern"
+  },
+  {
+    "id": "industrial-safety-jacket-neon",
+    "slug": "industrial-safety-jacket-neon"
+  },
+  {
+    "id": "industrial-safety-jacket-orange",
+    "slug": "industrial-safety-jacket-orange"
+  },
+  {
+    "id": "industrial-safety-jacket-orange-navy",
+    "slug": "industrial-safety-jacket-orange-navy"
+  },
+  {
+    "id": "industrial-safety-jacket-orange-pro",
+    "slug": "industrial-safety-jacket-orange-pro"
+  },
+  {
+    "id": "industrial-safety-jacket-red-navy",
+    "slug": "industrial-safety-jacket-red-navy"
+  },
+  {
+    "id": "industrial-safety-jacket-teal",
+    "slug": "industrial-safety-jacket-teal"
+  },
+  {
+    "id": "industrial-safety-jacket-white-navy",
+    "slug": "industrial-safety-jacket-white-navy"
+  },
+  {
+    "id": "industrial-safety-jacket-yellow",
+    "slug": "industrial-safety-jacket-yellow"
+  },
+  {
+    "id": "industrial-safety-pant-navy-orange-reflective",
+    "slug": "industrial-safety-pant-navy-orange-reflective"
+  },
+  {
+    "id": "industrial-safety-pant-navy-reflective",
+    "slug": "industrial-safety-pant-navy-reflective"
+  },
+  {
+    "id": "industrial-safety-pant-navy-single-reflective",
+    "slug": "industrial-safety-pant-navy-single-reflective"
+  },
+  {
+    "id": "industrial-safety-pant-orange-reflective",
+    "slug": "industrial-safety-pant-orange-reflective"
+  },
+  {
+    "id": "industrial-safety-shirt-grey-black-red",
+    "slug": "industrial-safety-shirt-grey-black-red"
+  },
+  {
+    "id": "industrial-safety-shirt-grey-red",
+    "slug": "industrial-safety-shirt-grey-red"
+  },
+  {
+    "id": "industrial-safety-shirt-hi-vis-lime-black",
+    "slug": "industrial-safety-shirt-hi-vis-lime-black"
+  },
+  {
+    "id": "industrial-safety-shirt-limeyellow-black-reflective",
+    "slug": "industrial-safety-shirt-limeyellow-black-reflective"
+  },
+  {
+    "id": "industrial-safety-shirt-orange-black",
+    "slug": "industrial-safety-shirt-orange-black"
+  },
+  {
+    "id": "industrial-safety-shirt-orange-black-reflective",
+    "slug": "industrial-safety-shirt-orange-black-reflective"
+  },
+  {
+    "id": "industrial-safety-shirt-orange-reflective",
+    "slug": "industrial-safety-shirt-orange-reflective"
+  },
+  {
+    "id": "industrial-safety-vest",
+    "slug": "industrial-safety-vest"
+  },
+  {
+    "id": "industrial-safety-vest-green",
+    "slug": "industrial-safety-vest-green"
+  },
+  {
+    "id": "industrial-safety-vest-green-navy",
+    "slug": "industrial-safety-vest-green-navy"
+  },
+  {
+    "id": "industrial-safety-vest-navy-reflective",
+    "slug": "industrial-safety-vest-navy-reflective"
+  },
+  {
+    "id": "industrial-safety-vest-orange-reflective",
+    "slug": "industrial-safety-vest-orange-reflective"
+  },
+  {
+    "id": "industrial-safety-vest-zipper",
+    "slug": "industrial-safety-vest-zipper"
+  },
+  {
+    "id": "magical-vacation-polo-tshirt-yellow-blue",
+    "slug": "magical-vacation-polo-tshirt-yellow-blue"
+  }
+]
