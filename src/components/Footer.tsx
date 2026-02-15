@@ -140,11 +140,11 @@ const Footer = () => {
             <div className="mt-6 space-y-3 text-sm">
               <div className="flex items-center gap-2 opacity-90">
                 <Phone className="h-4 w-4" />
-                <span>+91 96740 84559</span>
+                <span>+91 96749 84559</span>
               </div>
               <div className="flex items-center gap-2 opacity-90">
                 <Mail className="h-4 w-4" />
-                <span>admin@nextuniform@gmail.com</span>
+                <span>admin@nextuniform.com</span>
               </div>
               <div className="flex items-center gap-2 opacity-90">
                 <MapPin className="h-4 w-4" />

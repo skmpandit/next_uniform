@@ -121,7 +121,7 @@ const Wishlist = () => {
   // --- WhatsApp helpers ---
   const getWhatsAppNumber = (override?: string) => {
     const fromEnv = (import.meta as any)?.env?.VITE_WHATSAPP_NUMBER as string | undefined;
-    const raw = (override || fromEnv || "919674084559").toString();
+    const raw = (override || fromEnv || "919674984559").toString();
     return raw.replace(/\D/g, "");
   };
 
@@ -184,10 +184,10 @@ const Wishlist = () => {
     logo: "https://www.nextuniform.com/logo.png",
     contactPoint: [{
       "@type": "ContactPoint",
-      telephone: "+91-9674084559",
+      telephone: "+91-9674984559",
       contactType: "sales",
       areaServed: "IN",
-      email: "sales@nextuniform.com"
+      email: "admin@nextuniform.com"
     }]
   };
   // ---------------------------------------------------------------------------
@@ -355,7 +355,7 @@ const Wishlist = () => {
                   >
                     <a
                       href={buildWishlistWhatsAppLink({
-                        waNumber: import.meta.env.VITE_WHATSAPP_NUMBER || "919674084559",
+                        waNumber: import.meta.env.VITE_WHATSAPP_NUMBER || "919674984559",
                         items: items.map((i) => ({
                           id: i.id,
                           name: i.name,

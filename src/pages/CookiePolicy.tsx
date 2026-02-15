@@ -12,10 +12,10 @@ const CookiePolicy: React.FC = () => {
     "logo": "https://www.nextuniform.com/logo.png",
     "contactPoint": [{
       "@type": "ContactPoint",
-      "telephone": "+91-9674084559",
+      "telephone": "+91-9674984559",
       "contactType": "sales",
       "areaServed": "IN",
-      "email": "sales@nextuniform.com"
+      "email": "admin@nextuniform.com"
     }],
     "sameAs": [
       "https://www.linkedin.com/company/nextuniform",
@@ -178,8 +178,8 @@ const CookiePolicy: React.FC = () => {
                 If you have questions about this Cookie Policy or want to request removal of tracking, contact us:
               </p>
               <ul className="list-none space-y-1 text-sm">
-                <li><strong>Email:</strong> <a href="mailto:sales@nextuniform.com" className="text-emerald-600 hover:underline">sales@nextuniform.com</a></li>
-                <li><strong>Phone:</strong> <a href="tel:+919674084559" className="text-emerald-600 hover:underline">+91 96740 84559</a></li>
+                <li><strong>Email:</strong> <a href="mailto:admin@nextuniform.com" className="text-emerald-600 hover:underline">admin@nextuniform.com</a></li>
+                <li><strong>Phone:</strong> <a href="tel:+919674984559" className="text-emerald-600 hover:underline">+91 96749 84559</a></li>
               </ul>
 
               <p className="text-xs text-muted-foreground mt-4">

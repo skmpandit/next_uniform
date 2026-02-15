@@ -24,7 +24,7 @@ const WhatsAppIcon = ({ className = "w-4 h-4" }: { className?: string }) => (
 // get whatsapp number (from env or fallback)
 const getWhatsAppNumber = (override?: string) => {
   const fromEnv = (import.meta as any)?.env?.VITE_WHATSAPP_NUMBER as string | undefined;
-  const raw = (override || fromEnv || "919674084559").toString();
+  const raw = (override || fromEnv || "919674984559").toString();
   return raw.replace(/\D/g, "");
 };
 

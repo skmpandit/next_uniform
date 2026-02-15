@@ -188,10 +188,10 @@ export default function SizeGuide() {
     logo: "https://www.nextuniform.com/logo.png",
     contactPoint: [{
       "@type": "ContactPoint",
-      telephone: "+91-9674084559",
+      telephone: "+91-9674984559",
       contactType: "sales",
       areaServed: "IN",
-      email: "sales@nextuniform.com"
+      email: "admin@nextuniform.com"
     }]
   };
   // -------------------------------------------------------------------------

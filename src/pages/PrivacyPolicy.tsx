@@ -13,10 +13,10 @@ const PrivacyPolicy: React.FC = () => {
     "logo": "https://www.nextuniform.com/logo.png",
     "contactPoint": [{
       "@type": "ContactPoint",
-      "telephone": "+91-9674084559",
+      "telephone": "+91-9674984559",
       "contactType": "sales",
       "areaServed": "IN",
-      "email": "sales@nextuniform.com"
+      "email": "admin@nextuniform.com"
     }],
     "sameAs": [
       "https://www.linkedin.com/company/nextuniform",
@@ -149,7 +149,7 @@ const PrivacyPolicy: React.FC = () => {
                 You have the right to access, correct, or request deletion of your personal information. For marketing messages you may unsubscribe anytime using the link in emails.
               </p>
               <p className="text-sm text-muted-foreground">
-                To exercise your rights or request data export/deletion, contact: <a className="text-emerald-600 hover:underline" href="mailto:sales@nextuniform.com">sales@nextuniform.com</a>.
+                To exercise your rights or request data export/deletion, contact: <a className="text-emerald-600 hover:underline" href="mailto:admin@nextuniform.com">admin@nextuniform.com</a>.
               </p>
             </section>
 
@@ -167,8 +167,8 @@ const PrivacyPolicy: React.FC = () => {
                 If you have questions about this policy or wish to exercise your data rights, contact us:
               </p>
               <ul className="text-sm space-y-1">
-                <li><strong>Email:</strong> <a href="mailto:sales@nextuniform.com" className="text-emerald-600 hover:underline">sales@nextuniform.com</a></li>
-                <li><strong>Phone:</strong> <a href="tel:+919674084559" className="text-emerald-600 hover:underline">+91 96740 84559</a></li>
+                <li><strong>Email:</strong> <a href="mailto:admin@nextuniform.com" className="text-emerald-600 hover:underline">admin@nextuniform.com</a></li>
+                <li><strong>Phone:</strong> <a href="tel:+919674984559" className="text-emerald-600 hover:underline">+91 96749 84559</a></li>
               </ul>
               <p className="text-xs text-muted-foreground mt-4">
                 This policy is part of our broader privacy & cookie practices. See our <a href="/cookie-policy" className="text-emerald-600 hover:underline">Cookie Policy</a> and <a href="/terms-and-conditions" className="text-emerald-600 hover:underline">Terms & Conditions</a>.

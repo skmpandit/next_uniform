@@ -12,7 +12,7 @@ const faqs = [
   {
     q: 'How do I request a quote for bulk orders?',
     a: `Use the Contact page to submit product names, estimated quantities (MOQ), delivery city and desired timeline.
-        You can also call our sales team at +91 96740 84559 or email sales@nextuniform.com for faster assistance.`,
+        You can also call our sales team at +91 96740 84559 or email admin@nextuniform.com for faster assistance.`,
   },
   {
     q: 'What are the minimum order quantities (MOQ)?',
@@ -117,8 +117,8 @@ const Faq: React.FC = () => {
                 <a href="/contact" className="inline-block px-4 py-2 rounded-md bg-accent text-white text-sm text-center">
                   Contact Sales
                 </a>
-                <a href="tel:+919674084559" className="inline-block px-4 py-2 rounded-md border border-border text-sm text-center">
-                  Call +91 96740 84559
+                <a href="tel:+919674984559" className="inline-block px-4 py-2 rounded-md border border-border text-sm text-center">
+                  Call +91 96749 84559
                 </a>
               </div>
             </section>
